@@ -1,0 +1,70 @@
+15/08/23, 00:37 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+15/08/23, 00:37 - You created group "Chatbot"
+15/08/23, 00:38 - Pratima: Hi
+15/08/23, 00:38 - Mom: Hello
+15/08/23, 00:38 - Pratima: How may I help you?
+15/08/23, 00:39 - Mom: Who is the president of India?
+15/08/23, 00:39 - Pratima: Current president of India is Droupadi Murmu.
+15/08/23, 00:40 - Mom: What is India's national flower?
+15/08/23, 00:40 - Pratima: National flower of India is Lotus.
+15/08/23, 00:40 - Pratima: Lotus.
+15/08/23, 00:40 - Mom: What is India's national animal?
+15/08/23, 00:40 - Pratima: Tiger.
+15/08/23, 00:41 - Pratima: India's national animal is Tiger.
+15/08/23, 00:41 - Mom: What is India's national bird?
+15/08/23, 00:41 - Pratima: National bird of India is peacock.
+15/08/23, 00:41 - Pratima: Peacock.
+15/08/23, 00:41 - Mom: How many states are there in India?
+15/08/23, 00:42 - Pratima: There are 29 states in India.
+15/08/23, 00:42 - Mom: Which is the most populated state in India?
+15/08/23, 00:43 - Pratima: Uttar Pradesh is the most populated state in India.
+15/08/23, 00:43 - Mom: Does India have one of the seven wonders of the world?
+15/08/23, 00:44 - Pratima: Yes
+15/08/23, 00:44 - Mom: Which one?
+15/08/23, 00:44 - Pratima: Taj Mahal
+15/08/23, 00:44 - Mom: What are the neighbouring countries of India?
+15/08/23, 00:45 - Pratima: Afghanistan, Bhutan, Bangladesh, Maldives, China, Myanmar, Nepal, Pakistan, and Sri Lanka are the neighbouring countries of India.
+15/08/23, 00:46 - Mom: Which country is BTS from?
+15/08/23, 00:46 - Pratima: BTS is from Korea.
+15/08/23, 00:46 - Mom: Who are the members of BTS?
+15/08/23, 00:48 - Pratima: BTS, also known as the Bangtan Boys, is a South Korean boy band formed in 2010. The band consists of Jin, Suga, J-Hope, RM, Jimin, V, and Jungkook, who co-write or co-produce much of their material.
+15/08/23, 00:48 - Mom: What is V's full name?
+15/08/23, 00:48 - Pratima: Kim Taehyung
+15/08/23, 00:49 - Mom: List top 10 hit songs of BTS
+15/08/23, 00:54 - Pratima: 1. “Dynamite” (2020)
+2. “Blood, Sweat and Tears” (2016)
+3. “Butter” (2021)
+4. “Black Swan” (2020)
+5.  “Life Goes On” (2020)
+6. “Boy with Luv” featuring Halsey (2019)
+7. “My Universe” with Coldplay (2021)
+8. “Fake Love” (2018)
+9. “I Need U” (2015)
+10. “Mic Drop” (2017)
+15/08/23, 00:54 - Mom: Who are enlisted for military service in BTS?
+15/08/23, 00:55 - Pratima: Two members, Kim Seokjin (better known as Jin) and Jung Hoseok or JHope are already serving in the military. As per a South Korean law, all men have to enlist in the military and serve a period of 18 months, before they turn 28. For BTS, the government elevated the joining age to 30.
+15/08/23, 00:56 - Mom: Who is World Wide Handsome?
+15/08/23, 00:56 - Pratima: Kim Sekjin(better known as Jin)
+15/08/23, 00:57 - Mom: Thank you
+15/08/23, 00:57 - Pratima: If you need any help, please tell!!
+15/08/23, 00:57 - Mom: What are you exactly?
+15/08/23, 01:00 - Pratima: I am a chatbot, named "Flash". I am created by Pratima Pore, using python. I am similar to(but not completely) to ChatGPT. I try to respond to all your queries. If some of my replies are not satisfying or not relevent then there might be some problem , and I apologize for it. Please do consider if my replies are not relevant. Thank you!!
+15/08/23, 01:01 - Mom: Why is your name Flash?
+15/08/23, 01:01 - Pratima: Its because I always reply fast to whatever you ask.
+15/08/23, 01:02 - Mom: Nice name
+15/08/23, 01:02 - Pratima: Thank you!!
+How may I help you?
+15/08/23, 01:02 - Mom: I dont need any assistance right now
+15/08/23, 01:03 - Pratima: Great!! Do ask me if any doubts!!
+15/08/23, 01:03 - Pratima: Have a good day ahead!!
+15/08/23, 01:04 - Mom: Tell me more about BTS.
+15/08/23, 01:05 - Pratima: You deleted this message
+15/08/23, 01:15 - Pratima: Please refer to the following link for more details: https://www.google.com/search?channel=fs&client=ubuntu-sn&q=BTS
+15/08/23, 01:16 - Mom: What is Google?
+15/08/23, 01:16 - Pratima: Google LLC is an American multinational technology company focusing on artificial intelligence, online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics.
+15/08/23, 01:16 - Mom: Who is the CEO of Google?
+15/08/23, 01:17 - Pratima: Sundar Pichai
+15/08/23, 01:17 - Mom: Who is the most paid singer of India?
+15/08/23, 01:18 - Pratima: A R Rahman is the highest-paid singer in India 3 crore per song.
+15/08/23, 01:18 - Mom: How many hours does a person should sleep average?
+15/08/23, 01:19 - Pratima: 7 or more hours per night
